@@ -1,7 +1,5 @@
 # OTT-Platform-Analytics
 
-# OTT Movie Analytics Dashboard
-
 A complete end-to-end Data Analytics project focused on analyzing OTT movie platforms such as Netflix, Hulu, Prime Video, and Disney+ using Python and Power BI. This project explores movie trends, platform-wise content distribution, audience targeting, ratings analysis, and content growth over time through interactive visualizations and dashboards.
 
 ---
